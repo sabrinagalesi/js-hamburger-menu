@@ -1,6 +1,5 @@
 /* Creare un hamburger menu con l’utilizzo di Html, Css e JavaScript. */
 
-$("#side-bar").hide(0);
 
 $("#menu").click(function() {
     if($("#side-bar").is(":visible")) {

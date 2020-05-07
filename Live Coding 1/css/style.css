@@ -30,7 +30,7 @@ body {
 }
 
 #sottotitolo {
-    display: block;
+    display: none;
     width: 70%;
     font-size: 30px;
     margin-top: 30px;
